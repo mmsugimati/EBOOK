@@ -50,22 +50,3 @@ Utilizados os prompts acima nas ferramentas citadas para gerar o material base e
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-echo "# EBOOK1" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/mmsugimati/EBOOK1.git
-git push -u origin main
