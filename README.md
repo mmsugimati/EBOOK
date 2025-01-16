@@ -7,7 +7,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-<a href="https://github.com/mmsugimati/EBOOK1/blob/main/EBOOK.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/mmsugimati/EBOOK/blob/main/EBOOK.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
